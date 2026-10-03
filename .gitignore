@@ -1,0 +1,7 @@
+backend/.venv/
+models/
+.hf_cache/
+.npm-cache/
+.pip-cache/
+__pycache__/
+*.log
